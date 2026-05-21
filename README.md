@@ -1,4 +1,19 @@
-## Hi there 👋
+# hi
+
+## i post random projects here
+
+i like doing things for fun
+i know:
+
+c++
+
+python
+
+nasm
+
+a little javascript
+
+and lua
 
 <!--
 **myschoolrepoidk/myschoolrepoidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
